@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Salma! 
+
+- **Year**: Junior at Mount Holyoke College  
+- **Major**: Computer Science and Math  
+
+### Languages & Skills
+- **Programming**: Python, Java, C 
+- **Spoken**: English, French, Arabic, German 🌍  
+ 
+
+### Hobbies
+- Hiking 🏞️  
+- Running 🏃‍♀️
+- Number Theory research 🔢 
 
 <!--
 **ziadisalma/ziadisalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
